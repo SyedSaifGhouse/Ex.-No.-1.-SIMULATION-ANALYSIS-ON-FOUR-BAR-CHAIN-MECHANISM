@@ -58,8 +58,8 @@
 
 
 
-### Name:
-### Register Number: 
+### Name: SYED SAIF SYED GHOUSE
+### Register Number: 24009014
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
